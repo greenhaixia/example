@@ -1,4 +1,8 @@
 this a test file
+<<<<<<< HEAD
 aaaaa
+=======
+********
+>>>>>>> dc9eda6c8bcf49be35a24217c722781d7f2fd0c3
 add a new line
 
