@@ -1,6 +1,9 @@
 this a test file
 <<<<<<< HEAD
 
+git push origin local-master:remote-master
+git pull origin remote-master:local-master
+
 git remote -v
 origin	https://github.com/greenhaixia/example.git (fetch)
 origin	https://github.com/greenhaixia/example.git (push)
