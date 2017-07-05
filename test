@@ -1,8 +1,14 @@
 this a test file
 <<<<<<< HEAD
-aaaaa
-=======
-********
->>>>>>> dc9eda6c8bcf49be35a24217c722781d7f2fd0c3
-add a new line
 
+git remote -v
+origin	https://github.com/greenhaixia/example.git (fetch)
+origin	https://github.com/greenhaixia/example.git (push)
+
+git remote add green https:github.com/green/example.git
+
+git remote -v
+origin	https://github.com/greenhaixia/example.git (fetch)
+origin	https://github.com/greenhaixia/example.git (push)
+green	https://github.com/green/example.git (fetch)
+green	https://github.com/green/example.git (push)

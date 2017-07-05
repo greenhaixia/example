@@ -1,3 +1,3 @@
-just learn how to work wiht github
+just learn how to work with github
 
 on the way~~~
